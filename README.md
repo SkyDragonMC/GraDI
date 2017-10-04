@@ -1,0 +1,2 @@
+# GraDI
+Gradually Developing Intelligence
